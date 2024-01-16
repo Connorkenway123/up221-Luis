@@ -1,4 +1,5 @@
 # up221-Luis
+This is Luis R Garica Chavez's repository for Winter Quarter 2024, UP 221
 # Profile 
 <sub> Hello Everyone, my name is Luis R Garcia Chavez, and I am a First-Year MURP Student with an AOC on Transportation and Design & Development (DD). Fun Facts, I am a double Bruin and love hiking. 
 # Class Description 
